@@ -1,0 +1,111 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "PROJECT TITLE"
+  author: "Chungil Chae"
+  date: today
+  date-format: "ddd, D MMMM YYYY"
+  cover-image: img/cover.png
+  cover-image-alt: |
+    Chad 
+  chapters:
+    - 'index.qmd'
+    - part: "Research Logs"
+      chapters: 
+        - '01_research_log.qmd'
+        - '02_meeting_log.qmd'
+    - part: "Research Note"
+      chapters: 
+        - '03_ideas_and_thoughts.qmd'
+        - '04_questions_and_answers.qmd'
+        - '05_procedures.qmd'
+    - part: "Theoritical Framework"
+      chapters: 
+        - '06_related_theories.qmd'
+        - '07_relationship_between_theories.qmd'
+        - '08_theoretical_framework.qmd'
+    - part: "Methodology and Method"
+      chapters: 
+        - '09_methodology.qmd'
+        - '10_method.qmd'
+        - '11_data_collection_strategy.qmd'
+        - '12_data.qmd'
+    - part: "Literature Review"
+      chapters: 
+        - '13_model_and_key_references.qmd'
+        - '14_quotes_and_paraphrases.qmd'
+    - 'product.qmd'
+    - 'references.qmd'
+  sidebar:
+    #style: docked
+    background: light
+    collapse-level: 1
+  search: true
+  repo-url: https://github.com/chadchae
+  repo-actions: [edit]
+  downloads: [pdf, epub, docx]
+  sharing: [twitter, facebook]
+  page-navigation: true
+  page-footer:
+    center: "Copyright 2024, Chungil Chae"
+    
+bibliography: bib/references.bib
+csl: bib/apa.csl
+
+format:
+  html:
+    theme: cosmos # cosmos, darkly, flatly, journal, litera, lumen, materia, minty, pulse, sandstone, simplex, sketchy, slate, spacelab, united, yeti
+    toc: true
+    toc_float: TRUE
+    toc-depth: 4
+    toc-expand: true
+    #toc-location: left
+    toc-title: TOPICS
+    toc-font-size: .5em
+    #title-block-banner: true
+    fig-cap-locatio: bottom
+    tbl-cap-location: top
+    fig-align: left
+    reference-location: section
+    footnotes-hover: true
+    #link-external-icon: true
+    lightbox: true
+    standalone: true
+    smooth-scroll: true
+    embed-resources: false
+    linestretch: 1.5
+    #code-copy: true
+    #code-fold: true
+    #code-tools: true
+  pdf:
+    toc: true
+    toc-depth: 4
+    lof: true
+    lot: true
+    number-sections: false
+    mainfont: D2Coding ligature:style=Regular
+    cover-image: img/cover.png
+    documentclass: scrreport
+    includes-in-header:
+      - \usepackage{kotex}
+      - \usepackage{marginnote}
+      - \usepackage{lineno}
+      - \linenumbers
+      - \pagestyle{fancy}
+      - \fancyhead[HL]{Report}
+      - \fancyfoot[CO,CE]{Copyright @ Chad (Chungil) Chae, since 2023}
+      - \fancyfoot[LE,RO]{\thepage}
+      - \usepackage{fancyhdr}
+      - \usepackage{lipsum}
+      - \usepackage{eso-pic,graphicx,transparent}
+      - \usepackage{pdflscape}
+      - \newcommand{\blandscape}{\begin{landscape}}
+      - \newcommand{\elandscape}{\end{landscape}}
+  docx:
+    cover-image: img/cover.png
+    toc: true
+  epub:
+    cover-image: img/cover.png
+    toc: true

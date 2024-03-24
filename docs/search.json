@@ -1,0 +1,127 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PROJECT TITLE",
+    "section": "",
+    "text": "Project Details",
+    "crumbs": [
+      "Project Details"
+    ]
+  },
+  {
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "PROJECT TITLE",
+    "section": "Abstract",
+    "text": "Abstract\n\ntba",
+    "crumbs": [
+      "Project Details"
+    ]
+  },
+  {
+    "objectID": "index.html#status",
+    "href": "index.html#status",
+    "title": "PROJECT TITLE",
+    "section": "Status",
+    "text": "Status\n\nStatus\nProgress",
+    "crumbs": [
+      "Project Details"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "PROJECT TITLE",
+    "section": "Schedule",
+    "text": "Schedule\n\ntba",
+    "crumbs": [
+      "Project Details"
+    ]
+  },
+  {
+    "objectID": "index.html#contribution",
+    "href": "index.html#contribution",
+    "title": "PROJECT TITLE",
+    "section": "Contribution",
+    "text": "Contribution\n\ntba",
+    "crumbs": [
+      "Project Details"
+    ]
+  },
+  {
+    "objectID": "index.html#authorship",
+    "href": "index.html#authorship",
+    "title": "PROJECT TITLE",
+    "section": "Authorship",
+    "text": "Authorship\n\nChungil Chae Chae (2024)\n\n\nAcknowledgement\n\ntba\n\n\n\n\n\nChae, C. (2024). Introduction to chad (chungil) chae. https://chadchae.github.io",
+    "crumbs": [
+      "Project Details"
+    ]
+  },
+  {
+    "objectID": "01_research_log.html",
+    "href": "01_research_log.html",
+    "title": "Research Log",
+    "section": "",
+    "text": "xxxx-xx-xx",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "01_research_log.html#xxxx-xx-xx",
+    "href": "01_research_log.html#xxxx-xx-xx",
+    "title": "Research Log",
+    "section": "",
+    "text": "entry.",
+    "crumbs": [
+      "Research Logs",
+      "Research Log"
+    ]
+  },
+  {
+    "objectID": "02_meeting_log.html",
+    "href": "02_meeting_log.html",
+    "title": "Meeting Log",
+    "section": "",
+    "text": "xxxx-xx-xx",
+    "crumbs": [
+      "Research Logs",
+      "Meeting Log"
+    ]
+  },
+  {
+    "objectID": "02_meeting_log.html#xxxx-xx-xx",
+    "href": "02_meeting_log.html#xxxx-xx-xx",
+    "title": "Meeting Log",
+    "section": "",
+    "text": "10:00-10:30: Kick-off meeting",
+    "crumbs": [
+      "Research Logs",
+      "Meeting Log"
+    ]
+  },
+  {
+    "objectID": "08_theoretical_framework.html",
+    "href": "08_theoretical_framework.html",
+    "title": "Theoritical Framework",
+    "section": "",
+    "text": "Hypothesis",
+    "crumbs": [
+      "Theoritical Framework",
+      "Theoritical Framework"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Chae, C. (2024). Introduction to chad (chungil) chae. https://chadchae.github.io",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
