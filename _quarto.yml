@@ -1,9 +1,10 @@
 project:
   type: book
   output-dir: docs
-
+  
 book:
-  title: "PROJECT TITLE"
+  title: "The Digitalization Transformation Affect the Mobility and Structure of Human Resource in Chinese Listed Healthcare Companies"
+  subtitle: "working"
   author: "Chungil Chae"
   date: today
   date-format: "ddd, D MMMM YYYY"
@@ -14,36 +15,41 @@ book:
     - 'index.qmd'
     - part: "Research Logs"
       chapters: 
-        - '01_research_log.qmd'
-        - '02_meeting_log.qmd'
+        - 'rl_research_log.qmd'
+        - 'rl_meeting_log.qmd'
+        - 'rl_analysis_version_log.qmd'
+        - 'rl_draft_version_log.qmd'
     - part: "Research Note"
       chapters: 
-        - '03_ideas_and_thoughts.qmd'
-        - '04_questions_and_answers.qmd'
-        - '05_procedures.qmd'
+        - 'rn_ideas_and_thoughts.qmd'
+        - 'rn_questions_and_answers.qmd'
+        - 'rn_procedures.qmd'
     - part: "Theoritical Framework"
       chapters: 
-        - '06_related_theories.qmd'
-        - '07_relationship_between_theories.qmd'
-        - '08_theoretical_framework.qmd'
+        - 'tf_related_theories.qmd'
+        - 'tf_relationship_between_theories.qmd'
+        - 'tf_theoretical_framework.qmd'
     - part: "Methodology and Method"
       chapters: 
-        - '09_methodology.qmd'
-        - '10_method.qmd'
-        - '11_data_collection_strategy.qmd'
-        - '12_data.qmd'
+        - 'mm_methodology.qmd'
+        - 'mm_method.qmd'
+        - 'mm_data_collection_strategy.qmd'
+        - 'mm_data.qmd'
     - part: "Literature Review"
       chapters: 
-        - '13_model_and_key_references.qmd'
-        - '14_quotes_and_paraphrases.qmd'
-    - 'product.qmd'
+        - 'lr_search_incl_excl.qmd'
+        - "lr_referencelist.qmd"
+        - 'lr_research_problem.qmd'
+        - 'lr_model_and_key_references.qmd'
+        - 'lr_quotes_and_paraphrases.qmd'
+    - 'pp_product.qmd'
     - 'references.qmd'
   sidebar:
     #style: docked
     background: light
     collapse-level: 1
   search: true
-  repo-url: https://github.com/chadchae
+  repo-url: https://drive.google.com/drive/folders/1XQ7npz56eFQ82dvjcTJmsz-W3eXDCaJN?usp=sharing
   repo-actions: [edit]
   downloads: [pdf, epub, docx]
   sharing: [twitter, facebook]
