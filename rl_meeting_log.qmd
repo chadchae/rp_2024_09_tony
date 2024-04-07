@@ -1,4 +1,37 @@
 # Meeting Log {.unnumbered}
 
 ## xxxx-xx-xx
-- [x] 10:00-10:30: Kick-off meeting
+- [x] 10:00-10:30: Kick-off meeting 
+- zoom ()
+
+## April 7, 2024, 5:Z
+- Meeting
+  - Zoom (https://us02web.zoom.us/rec/share/3LTKZn3R4pvrPxbMFyLezwxqzLywB-ksfuTwp5U3Pgx7phMcBOeOgb7I7R4lGdma.OVIQQ41lLe_nq_Wv?startTime=1712480953000
+Passcode: 7QwFw1?h)
+	- Attendance
+		- Chad
+		- Tony
+		- Allen
+- Contents
+	- Tony demonstration
+		- new IV (proportion of higher degree employees in organization)
+		- new DV (new DT level measure)
+			- rough and tentative result shows positive
+	- Chad explanation
+		- collected 2 bib datasets for "digital transformation" and 'health care' and 'digital transformation' in general
+		- Identified 6 key papers
+		- Working on introduction and theoretical framework
+- Todo
+	- Chad
+		- Introduction
+		- Theoritical framework
+		- Bibliometric report
+	- Tony
+		- share data with codebook
+		- search possible variable for upper Echols theory
+		- prepare moderation, mediation, and cross-lagged modeling
+	- Allen
+		- Search literature of upper Echols theory (emprical) papers
+		- Find combination or what variables they used for UET
+- Next meeting
+	- TBA
